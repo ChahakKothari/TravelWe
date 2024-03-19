@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_hotel"
+        android:icon="@drawable/hotel_svgrepo_com"
+        android:title="Hotels" />
+
+    <item
+        android:id="@+id/nav_slideshow"
+        android:icon="@drawable/baseline_local_taxi_24"
+        android:title="taxi" />
+    <item
+        android:id="@+id/nav_cities"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+     <item
+        android:id="@+id/nav_places"
+        android:icon="@drawable/location_filled_svgrepo_com"
+        android:title="places" />
+    <item
+        android:id="@+id/nav_service"
+        android:icon="@drawable/services_svgrepo_com"
+        android:title="services" />
+
+
+</menu>

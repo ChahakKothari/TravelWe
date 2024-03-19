@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/hotel_svgrepo_com"
+            android:title="Hotels" />
+
+        <item
+            android:id="@id/nav_home"
+            android:icon="@drawable/building"
+            android:title="cities" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/food_and_drink_svgrepo_com"
+            android:title="food" />
+
+        <item
+            android:id="@+id/nav_places"
+            android:icon="@drawable/location_filled_svgrepo_com"
+            android:title="places" />
+
+        <item
+            android:id="@+id/nav_service"
+            android:icon="@drawable/services_svgrepo_com"
+            android:title="services" />
+
+    </group>
+</menu>
